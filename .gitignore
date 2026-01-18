@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Javascript/Node
+node_modules/
+dist/
+.DS_Store
+
+# Data
+*.csv
+api_data_aadhar_biometric/
+api_data_aadhar_demographic/
+api_data_aadhar_enrolment/
+backend/processed_records.csv
